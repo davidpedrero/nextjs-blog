@@ -17,7 +17,9 @@ export default function Home() {
         </p>
         <p>
           Feel free to contact me on{" "}
-          <a href="https://www.linkedin.com/in/davidpedrero/">LinkedIn.</a>{" "}
+          <a href="https://www.linkedin.com/in/davidpedrero/" target="_blank">
+            LinkedIn.
+          </a>{" "}
         </p>
       </section>
     </Layout>
