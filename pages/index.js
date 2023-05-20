@@ -31,8 +31,12 @@ export default function Home({ allPostsData }) {
         <p>
           Feel free to contact me on{" "}
           <a href="https://www.linkedin.com/in/davidpedrero/" target="_blank">
-            LinkedIn.
+            LinkedIn
           </a>{" "}
+          or{" "}
+          <a href="https://github.com/davidpedrero" target="_blank">
+            GitHub.
+          </a>
         </p>
       </section>
 
